@@ -119,3 +119,6 @@ Not suitable for high-speed typing
 🧾 Conclusion
 
 This Gesture-Controlled Virtual Keyboard with Google Search demonstrates how innovative, touch-free interaction systems can be created using simple HTML and browser technologies. It is an effective example of modern HCI that is accessible, lightweight, and future-ready.
+
+
+<img width="1901" height="1003" alt="image" src="https://github.com/user-attachments/assets/9600479d-e444-4b19-b57d-7c838f056873" />
